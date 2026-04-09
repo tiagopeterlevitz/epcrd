@@ -1,6 +1,6 @@
 #epcrd
 
-`epcrd` is the planned software companion to a methods project on Enhanced PCRD (Politician-Characteristic Regression Discontinuity) designs.
+`epcrd` is the planned software companion to the Enhanced PCRD (Politician-Characteristic Regression Discontinuity) framework.
 
 The package is in development and will provide tools for:
 - constructing predicted-close subsamples,
